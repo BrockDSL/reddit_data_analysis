@@ -112,3 +112,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Tims specifics
+settings.yaml
+/memes
+.DS_Store
