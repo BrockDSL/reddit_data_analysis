@@ -117,3 +117,4 @@ dmypy.json
 settings.yaml
 /memes
 .DS_Store
+/meme_download
